@@ -30,5 +30,3 @@ G. Samorodnitsky and M. Taqqu (1994). Stable Non-Gaussian Random Processes: Stoc
 }
 \keyword{Symmetric Tempered Stable Distributions}
 \keyword{Symmetric Stable Distributions}
-
-

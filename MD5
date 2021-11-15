@@ -1,11 +1,11 @@
-1875aab8eb1575bf95806907906acb6c *DESCRIPTION
-89cfaf4dda0fae20b3e08194e2672956 *NAMESPACE
+dd6239762dd13c7ca2c73c2c8ef8a5ff *DESCRIPTION
+bf48d0af540c139181133dddb9783c45 *NAMESPACE
 ab5079817842fae138f60e1c22dd15ee *R/SymTS.r
-f5abb9d66b3fe309a74328d42a5d709d *build/partial.rdb
+cc4e767b4daec9b9b03183813b7b39ae *build/partial.rdb
 945b8e2125c9896dec8a73edf5947de6 *cleanup
-40b0d03ff9b5aabc389427bba4147963 *configure
-a90f6e90550576fbbb9050b8ba1fb2ab *configure.ac
-881ca8106aa3e346621294d2a5eddaf7 *man/SymTS-package.Rd
+87880a933eb8ec5bbcb83972d629291b *configure
+f3be101d50c523a0759b97c78e84330c *configure.ac
+80d1313e503f18b4aaf231fc1f79c829 *man/SymTS-package.Rd
 6845b754ab1bf1e082318a005c35045d *man/dCTS.Rd
 224898e235959b35205af846c4468d90 *man/dPowTS.Rd
 37ffd32c7b8b5c4b5c605f6f779b7727 *man/dSaS.Rd

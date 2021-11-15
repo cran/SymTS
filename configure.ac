@@ -1,5 +1,5 @@
 #Name and version
-AC_INIT([SymTS], 1.0)
+AC_INIT([SymTS],[1.1])
 
 # Need a C compiler
 AC_PROG_CC
@@ -19,5 +19,6 @@ fi
 AC_SUBST(GSL_CFLAGS)
 AC_SUBST(GSL_LIBS)
 
-AC_OUTPUT(src/Makevars)
+AC_CONFIG_FILES([src/Makevars])
+AC_OUTPUT
 

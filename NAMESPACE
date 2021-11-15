@@ -1,3 +1,4 @@
 useDynLib(SymTS, .registration = TRUE, .fixes = "C_")
 importFrom("stats", "dcauchy", "pcauchy", "qcauchy", "rexp", "runif")
-export(dCTS, pCTS, qCTS, dPowTS, pPowTS, qPowTS, dSaS, pSaS, qSaS, rPowTS, rCTS, rSaS)
+export("dCTS", "dPowTS", "dSaS", "pCTS", "pPowTS", "pSaS", "qCTS",
+       "qPowTS", "qSaS", "rCTS", "rPowTS", "rSaS")
