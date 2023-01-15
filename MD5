@@ -1,7 +1,7 @@
-dd6239762dd13c7ca2c73c2c8ef8a5ff *DESCRIPTION
-bf48d0af540c139181133dddb9783c45 *NAMESPACE
+a15ac4b27953ebc23e17da9d12a04350 *DESCRIPTION
+57945a765b67f61af48c5f2e972a4020 *NAMESPACE
 ab5079817842fae138f60e1c22dd15ee *R/SymTS.r
-cc4e767b4daec9b9b03183813b7b39ae *build/partial.rdb
+2a915d80eed70af74d625ea7a9988e8a *build/partial.rdb
 945b8e2125c9896dec8a73edf5947de6 *cleanup
 87880a933eb8ec5bbcb83972d629291b *configure
 f3be101d50c523a0759b97c78e84330c *configure.ac
@@ -20,4 +20,4 @@ af33417d9ba29f09c391ed62c251e5ef *man/rCTS.Rd
 1a8d327954d9a7b6a0ff497619111f15 *man/rSaS.Rd
 d140432b43a8c7ef13efd4f9c3d082d8 *src/Makevars.in
 ebaff9be3b59a1f76ccd9b400d278a04 *src/Makevars.win
-1023ea673a973f6f995b7f7812d33374 *src/SymTS.c
+7dd40163db7057224b02990a6c01ebd6 *src/SymTS.c

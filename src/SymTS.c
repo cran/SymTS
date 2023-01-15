@@ -19,13 +19,13 @@ gsl_integration_workspace *w;
 gsl_integration_workspace *cw;
 gsl_integration_workspace *wi;
 
-void integrationSetup(){
+void integrationSetup(void){
     tc = gsl_integration_qawo_table_alloc(0, 1, GSL_INTEG_COSINE, 100);
     w = gsl_integration_workspace_alloc (10000);
     cw = gsl_integration_workspace_alloc (10000);
     gsl_set_error_handler_off();
 }
-void integrationCleanup(){
+void integrationCleanup(void){
     gsl_integration_qawo_table_free(tc);
     gsl_integration_workspace_free (w);
     gsl_integration_workspace_free (cw);
